@@ -1,0 +1,1103 @@
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\zadania\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\sklep\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\zadanko\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\prj\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\prj\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\prj\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\prj\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\javaprj\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\ccc\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Company.dll.config
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Company.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Company.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csc.exe
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csc.rsp
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csi.exe
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\csi.rsp
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\vbc.exe
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\EntityFramework.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Owin.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\PagedList.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Razor.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\WebGrease.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\PagedList.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.Razor.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\EntityFramework.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\obj\Debug\Company.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\obj\Debug\Company.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\BouncyCastle.Crypto.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MailKit.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MimeKit.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\System.Buffers.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\BouncyCastle.Crypto.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MailKit.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MailKit.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MimeKit.pdb
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\MimeKit.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.License.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.Pdf.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.XLS.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Microsoft.mshtml.dll
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.License.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.Pdf.xml
+C:\Users\Aleksandra\Desktop\tmp2\Company\Company\bin\Spire.XLS.xml
+C:\Users\admin\Desktop\Company\Company\bin\Company.dll.config
+C:\Users\admin\Desktop\Company\Company\bin\Company.dll
+C:\Users\admin\Desktop\Company\Company\bin\Company.pdb
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Company\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Company\Company\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Company\Company\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Company\Company\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Company\Company\bin\MailKit.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Company\Company\bin\MimeKit.dll
+C:\Users\admin\Desktop\Company\Company\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Company\Company\bin\Owin.dll
+C:\Users\admin\Desktop\Company\Company\bin\PagedList.dll
+C:\Users\admin\Desktop\Company\Company\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\Company\Company\bin\Spire.License.dll
+C:\Users\admin\Desktop\Company\Company\bin\Spire.Pdf.dll
+C:\Users\admin\Desktop\Company\Company\bin\Spire.XLS.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\Company\Company\bin\WebGrease.dll
+C:\Users\admin\Desktop\Company\Company\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Company\Company\bin\System.Buffers.dll
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.mshtml.dll
+C:\Users\admin\Desktop\Company\Company\bin\MailKit.pdb
+C:\Users\admin\Desktop\Company\Company\bin\MailKit.xml
+C:\Users\admin\Desktop\Company\Company\bin\MimeKit.pdb
+C:\Users\admin\Desktop\Company\Company\bin\MimeKit.xml
+C:\Users\admin\Desktop\Company\Company\bin\PagedList.xml
+C:\Users\admin\Desktop\Company\Company\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\Company\Company\bin\Spire.License.xml
+C:\Users\admin\Desktop\Company\Company\bin\Spire.Pdf.xml
+C:\Users\admin\Desktop\Company\Company\bin\Spire.XLS.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\Company\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\Company\Company\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Company\Company\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\Company\Company\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Company\Company\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\Company\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Company\Company\bin\BouncyCastle.Crypto.xml
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\admin\Desktop\Company\Company\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\admin\Desktop\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Company\Company\obj\Debug\Company.csproj.CopyComplete
+C:\Users\admin\Desktop\Company\Company\obj\Debug\Company.dll
+C:\Users\admin\Desktop\Company\Company\obj\Debug\Company.pdb

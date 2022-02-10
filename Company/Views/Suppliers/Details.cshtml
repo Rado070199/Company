@@ -1,0 +1,43 @@
+﻿@model Company.Models.Suppliers
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class=" jumbotron ">
+    <h2>Szczegóły dostawy</h2>
+</div>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.device.NameElectronicDevice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.device.NameElectronicDevice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NameCompany)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameCompany)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.quantityDevices)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.quantityDevices)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edycja |", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Powrót", "Index")
+</p>

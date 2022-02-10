@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Company.Models.Orders>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Zamówienia</b></h1>
+</div>
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h3> Prosimy o płatność pod rachunkiem 4325404883304641 </h3>
+    <h3>W tytule przelewu prosimy o podanie nazwy zakupionego towaru oraz nazwiska. </h3>
+    <h3>Produkt dotrze na podany przez państwa w zakładce profil adres z darmowa dostawa kurierem w cenie!</h3>
+    <h3> Dziękujemy za zaufanie i mamy nadzieje do zobaczenia w przyszłości :)!</h3>
+</div>
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.device.NameElectronicDevice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.profile.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfPieces)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionDate)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.device.NameElectronicDevice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.profile.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumberOfPieces)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TransactionDate)
+        </td>
+        <td>
+
+            @if (item.status.ToString().Equals("nieopłacone"))
+            {
+                @Html.ActionLink("Anuluj Zamówienie", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" }) <br /><br />
+            }
+
+            @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })<br /><br />
+
+            @if (Context.User.IsInRole("Admin"))
+            {
+                @Html.ActionLink("Usuń", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" })<br /><br />
+                @Html.ActionLink("Akceptuj Opłaty", "Pay", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })<br /><br />
+                @Html.ActionLink("Edycja", "Edit", new { id = item.ID }, new { @class = "btn btn-primary btn-large button1" })
+            }
+
+        </td>
+    </tr>
+        }
+    </table>
+</div>

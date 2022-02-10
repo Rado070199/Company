@@ -1,0 +1,73 @@
+﻿@model Company.Models.Orders
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class=" jumbotron ">
+    <h2>Szczegóły zamówienia</h2>
+</div>
+
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.device.NameElectronicDevice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.device.NameElectronicDevice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profile.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profile.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfPieces)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfPieces)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edycja |", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Powrót", "Index")
+    @if (Request.IsAuthenticated)
+    {
+        @Html.ActionLink("Profil użytkownika |", "Details", "Profiles", new { id = (int)Model.ProfileID }, null)
+        @Html.ActionLink("Dane urządzenia", "Details", "Devices", new { id = Model.DeviceID }, null)
+    }
+</p>

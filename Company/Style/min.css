@@ -1,0 +1,22 @@
+﻿#d1 {
+    float: left !important;
+}
+
+#d2 {
+    float: left !important;
+    height: 300px;
+    width: 400px;
+}
+
+#d3 {
+    float: left !important;
+    height: 200px;
+    width: 200px;
+}
+
+#d4 {
+    clear: both !important;
+}
+#i1{
+    background-color:black !important;
+}

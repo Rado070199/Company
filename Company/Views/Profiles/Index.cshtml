@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Company.Models.Profile>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Dane do wysyłki</b></h1>
+</div>
+<div class="jumbotron w3-container w3-center w3-animate-bottom">
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @if (Request.IsAuthenticated)
+            { 
+              @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })<br /><br />
+              @Html.ActionLink("Edycja", "Edit", new { id = item.ID }, new { @class = "btn btn-primary btn-large button1" }) <br /><br />
+              @Html.ActionLink("Usuń", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" })
+             }  
+            </td>
+    </tr>
+        }
+
+    </table>
+ </div>

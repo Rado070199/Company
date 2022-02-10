@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "SendEmail";
+}
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Wyślij Email</b></h1>
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <h2>@ViewBag.Error</h2>
+}
+<form method="post" action="SendEmail">
+    <div class="container">
+
+        <span class="form-control-static"> Odbiorca: </span>
+        <input class="form-control" type="text" name="receiver" />
+        <br />
+        <span class="form-control-static"> Temat: </span>
+        <input class="form-control" type="text" name="subject" />
+        <br />
+        <span class="form-control-static"> Wiadomość: </span>
+        <textarea class="form-control" name="msg" rows="10" cols="30"></textarea>
+        <br />
+
+        <input class="btn btn-primary" type="submit" value="wyślij" />
+
+
+
+    </div>
+</form>

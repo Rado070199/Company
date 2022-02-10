@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Company.Models.Topicality>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Aktualności</b></h1>
+    <b>Newsy podróży z nami!</b>
+</div>
+<div class="jumbotron w3-container w3-center w3-animate-bottom">
+    @if (Context.User.IsInRole("Admin"))
+    {
+
+    <h3>@Html.ActionLink("Dodaj nową aktualność", "Create")</h3> 
+
+    }
+    <img src="../Images/tel.jpg" alt="Tu podaj tekst alternatywny" width="400px" height="400px">
+    <br />
+    <br />
+    <div class="cont">
+        @foreach (var item in Model)
+        {
+            <table class="table">
+                <tr>
+                    <td>
+                        <h2>@Html.DisplayFor(modelItem => item.TripDescription)</h2>
+                    </td>
+
+                    <td>
+                        @if (Context.User.IsInRole("Admin"))
+                        {
+                            @Html.ActionLink("Usuń", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" })
+                            @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })
+                            @Html.ActionLink("Edycja", "Edit", new { id = item.ID }, new { @class = "btn btn-primary btn-large button1" })
+
+                        }
+                    </td>
+                </tr>
+
+            </table>
+        }
+    </div>
+</div>
+     
+

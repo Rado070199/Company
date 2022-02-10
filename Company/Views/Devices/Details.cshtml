@@ -1,0 +1,157 @@
+﻿@model  Company.ViewModels.DeviceOrdersViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class=" jumbotron ">
+    <h2>Szczególy oferty</h2>
+</div>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DeviceVM.NameElectronicDevice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeviceVM.NameElectronicDevice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeviceVM.deviceCategory)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeviceVM.deviceCategory)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeviceVM.PricePerPieces)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeviceVM.PricePerPieces)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeviceVM.quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeviceVM.quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeviceVM.DeviceDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeviceVM.DeviceDescription)
+        </dd>
+
+
+        <dd>
+            <img src="~/Images/@Model.DeviceVM.Image" alt="" height="700px" width="800px" />
+        </dd>
+
+    </dl>
+
+    <p>
+        @if (Context.User.IsInRole("Admin"))
+        {
+            @Html.ActionLink("Edycja |", "Edit", new { id = Model.DeviceVM.ID })
+        }
+        @Html.ActionLink("Powrót", "Index")
+    </p>
+    @if (Request.IsAuthenticated)
+    {
+        if (Model.DeviceVM.quantity == 0)
+        {
+            <h1>Ten produkt chwilowo nie jest dostępny w magazynie!</h1>
+            <h1>Prosimy poczekać na dostawę!</h1>
+        }
+        else {
+                using (Html.BeginForm("Create", "Orders", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-horizontal">
+                        <h4>Zamów produkt!</h4>
+                        <hr />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.HiddenFor(model => model.OrdersVM.DeviceID)
+                        </div>
+                        <div class="form-group">
+                            @Html.HiddenFor(model => model.OrdersVM.ProfileID)
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.OrdersVM.NumberOfPieces, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.OrdersVM.NumberOfPieces, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.OrdersVM.NumberOfPieces, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Zamów" class="btn btn-default" />
+                            </div>
+                        </div>
+                    </div>
+                }
+
+        }
+    }
+    @if (Context.User.IsInRole("Admin"))
+    {
+        <h1>Zamówienia na to urządzenie</h1>
+        <table class="table">
+            <tr>
+                <th>
+                    <p>Identyfikator użytkownika w systemie:</p>
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrdersVM.NumberOfPieces)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrdersVM.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrdersVM.status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrdersVM.TransactionDate)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.OrdersVME)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProfileID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NumberOfPieces)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TransactionDate)
+                    </td>
+                </tr>
+            }
+
+        </table>
+    }
+</div>
+
+<div>
+    
+</div>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Company.ViewModels.StatisticsViewModel>
+
+@{
+    ViewBag.Title = "Orders Statistics";
+}
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Kontakt</b></h1>
+</div>
+<div class="w3-container w3-center w3-animate-bottom">
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrdersCount)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrdersCount)
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+    <br />
+    <div class=" jumbotron w3-container w3-center w3-animate-bottom">
+        <h1>Zapraszamy do kontaktu!</h1>
+
+
+        <address>
+            Sklep internetowy Smatshop Wiesiek94<br />
+            Armii Krajowej 33, 31-365  Poznań<br />
+            <abbr title="Phone">P:</abbr>
+            603 333 832
+        </address>
+
+        <address>
+            <p>Jan Nowak</p>
+            <strong>Support:</strong>   <a href="mailto:shaya123@int.pl">qwerty@wp.pl</a><br />
+        </address>
+        <img src="../Images/call.jpg" alt="Tu podaj tekst alternatywny" width="400px" height="400px">
+
+    </div>
+
+</div>

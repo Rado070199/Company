@@ -1,0 +1,73 @@
+﻿@model Company.Models.Orders
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+    <div class=" jumbotron ">
+        <h2>Anuluj Zamówienie</h2>
+    </div>
+
+<h3>Czy napewno chcesz anulować zamówienie?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.device.NameElectronicDevice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.device.NameElectronicDevice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profile.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profile.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfPieces)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfPieces)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionDate)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Anuluj" class="btn btn-default" /> |
+            @Html.ActionLink("Powrót", "Index")
+        </div>
+    }
+</div>

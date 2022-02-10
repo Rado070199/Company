@@ -1,0 +1,27 @@
+﻿@model Company.Models.Topicality
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class=" jumbotron ">
+    <h2>Szczegóły informacji</h2>
+</div>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDescription)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edycja ", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Powrót", "Index")
+</p>

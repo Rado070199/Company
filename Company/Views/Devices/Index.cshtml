@@ -1,0 +1,63 @@
+﻿@model PagedList.IPagedList<Company.Models.Device>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+    <h1><b>Nasza Oferta</b></h1>
+</div>
+<div>
+    @using (Html.BeginForm("Index", "Devices", FormMethod.Get))
+    {<p>
+            nazwa oferty: @Html.TextBox("searchString", null, new { @class = "form-control" })
+            cena: @Html.TextBox("price", null, new { @class = "form-control" })
+            <br />
+            <input type="submit" value="Wyszukaj" class="btn btn-default" id="searchBT" />
+        </p>
+     <p>
+         @if (Context.User.IsInRole("Admin")) 
+         {
+            @Html.ActionLink("Dodaj nowy produkt |", "Create")
+         }
+         @Html.ActionLink("Nazwa urządzenia | ", "Index", new { sortOrder = ViewBag.DeviceSortParm })
+         @Html.ActionLink("Cena | ", "Index", new { sortOrder = ViewBag.DoubleSortParm })
+         @Html.ActionLink("Kategoria urządzenia", "Index", new { sortOrder = ViewBag.NameSortParm })
+     </p>
+    }
+</div>
+<div class=" jumbotron w3-container w3-center w3-animate-bottom">
+
+    <div div class="cont">
+        @foreach (var item in Model)
+        {
+
+            <div id="d1">
+                <img src="~/Images/@item.Image" alt="" height="300px" width="400px" />
+            </div>
+            <div id="d2">
+                <h3> @Html.DisplayFor(modelItem => item.NameElectronicDevice)</h3>
+                <h3> @Html.DisplayFor(modelItem => item.deviceCategory)</h3>
+                <h3> Cena @Html.DisplayFor(modelItem => item.PricePerPieces) złoty</h3>
+            </div>
+            <div id="d3">
+                @Html.ActionLink("Zobacz Oferte", "Details", new { id = item.ID }, new { @class = "btn btn-primary btn-large button3" })<br /><br />
+                @if (Context.User.IsInRole("Admin"))
+                {
+                @Html.ActionLink("Edycja", "Edit", new { id = item.ID }, new { @class = "btn btn-primary btn-large button1" }) <br /><br />
+                @Html.ActionLink("Usuń", "Delete", new { id = item.ID }, new { @class = "btn btn-primary btn-large button2" })
+                }
+            </div>
+            <div id="d4">
+
+            </div>
+
+        }
+        Strona @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) z @Model.PageCount
+
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+                new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+    </div>
+</div>
+
